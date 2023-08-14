@@ -1,4 +1,4 @@
 # Face-recognition-attendance-system
-My Project
+My Project.
 
 https://shivamdwivedi1403.github.io/Face-recognition-attendance-system/
